@@ -18,4 +18,4 @@ R User Conference in Korea 2020
 ## 운영위 운영 원칙 제안
 
 - 제안자: 박찬엽 <mrchypark@gmail.com>
-- [Proposal](./proposals/constitution)
+- [Proposal](./proposals/governance)
