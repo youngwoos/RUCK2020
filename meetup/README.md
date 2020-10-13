@@ -10,6 +10,8 @@ https://meet.google.com/tak-hwmg-wzy
 
 ## 공개 미팅 일정
 
-TBD
+매주 화, 금 22:00 시 (kst 한국시간) 1시간 동안 진행
 
 https://github.com/R-Korea/RUCK2020/issues/22
+
+[아젠다](./meetup/agenda.md)
