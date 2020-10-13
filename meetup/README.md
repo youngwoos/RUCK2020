@@ -14,4 +14,4 @@ https://meet.google.com/tak-hwmg-wzy
 
 https://github.com/R-Korea/RUCK2020/issues/22
 
-[아젠다](./meetup/agenda.md)
+[아젠다](./agenda.md)
