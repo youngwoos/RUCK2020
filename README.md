@@ -15,6 +15,10 @@ R User Conference in Korea 2020
 
 [운영위 정보](./GOVERNANCE.md)
 
+## 정기 공개 미팅 정보
+
+[미팅노트](./meetup/)
+
 ## 운영위 운영 원칙 제안
 
 - 제안자: 박찬엽 <mrchypark@gmail.com>
