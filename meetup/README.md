@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=U9bTwrgnKhA&list=PLVxO6JrgVXzrzEx1AdKRtJ8-p0ZhBu
 
 ## 공개 미팅 참여 체널
 
-https://meet.google.com/vzu-tfph-jpk
+https://meet.google.com/srg-hhzh-mnw
 
 ## 공개 미팅 일정
 
