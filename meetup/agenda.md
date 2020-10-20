@@ -18,6 +18,16 @@
 17 발표 방식과 발표자 모집 방법 제안    
 15 발표자 단톡방 개설 및 관리자 제안    
 
+### 미팅 결과
+
+1. 이노베이션 아카데미 장소 소개 - 최가인
+
+[장소소개자료](https://github.com/R-Korea/RUCK2020/blob/master/studio/(%EB%8C%80%EC%99%B8%EB%B0%B0%ED%8F%AC%EC%9A%A9)%20%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%EA%B3%B5%EA%B0%84%20%EC%86%8C%EA%B0%9C%20%EC%9E%90%EB%A3%8C_201020.pdf)
+
+1. 발표자를 위한 체크리스트 의견 교환    
+1. 
+
+
 ## online meetup 20201013
 
 ### 남은 이슈
