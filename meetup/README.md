@@ -4,7 +4,7 @@
 
 https://www.youtube.com/watch?v=U9bTwrgnKhA&list=PLVxO6JrgVXzrzEx1AdKRtJ8-p0ZhBun4P
 
-## 공개 미팅 참여 체널
+## 공개 미팅 참여 채널
 
 아래 구글 밋 링크를 클릭하시면 참여하실 수 있습니다.
 
